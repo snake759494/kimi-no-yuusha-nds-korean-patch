@@ -1,0 +1,12 @@
+{
+ "version": "v1.0",
+ "asset": "KimiNoYuusha_NDS_KO_v1.0.xdelta",
+ "asset_size": 2693140,
+ "asset_sha256": "72dcf46d05aec301b1812550f58619d92f84b8957ca45bc1a6d57219e8d0f9df",
+ "source_size": 134217728,
+ "source_md5": "15af83ec4a1949a92b531db91c21b2a4",
+ "source_sha256": "d1d7122af67183528e30f399664fc85a128d5055556269b2845a501f62ce9a42",
+ "result_nds_size": 94374408,
+ "result_nds_md5": "50fcdaf38b42442cf8f72db5024c3ab8",
+ "result_nds_sha256": "e294d45c2329e4d063fab579a718996cd80862328054bcfc698f29f1d88c2500"
+}
